@@ -1,0 +1,1 @@
+Use yield with a function to break at a certain point then step back in at that point if desired. This is a generator, a function that remembers where it was
